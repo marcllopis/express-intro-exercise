@@ -3,18 +3,22 @@ const bootcamp = {
     {
       name: "Moran",
       living: "Berlin",
+      age: 22,
     },
     {
       name: "Billy",
       living: "France",
+      age: 23,
     },
     {
       name: "Arne",
       living: "Berlin",
+      age: 24,
     },
     {
       name: "Kenneth",
       living: "France",
+      age: 21,
     },
   ],
   instructors: [
@@ -24,7 +28,7 @@ const bootcamp = {
     },
     {
       name: "Luke",
-      living: "Barcelona",
+      living: "DogLand",
     },
   ],
 };
